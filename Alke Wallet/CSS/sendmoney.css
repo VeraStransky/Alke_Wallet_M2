@@ -1,0 +1,40 @@
+body {
+  background-color: #0f0e0f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+h1 {
+  background-color: #dc32a0;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  background-color: #dc32a0;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.contact-info span {
+  color: black;
+}
+
+div {
+  color: white;
+  display: block;
+  align-items: center;
+}
+
+footer {
+  color: #fff;
+  padding: 0.5rem;
+  text-align: center;
+  padding: 10px;
+     
+}

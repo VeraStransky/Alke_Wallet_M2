@@ -1,0 +1,43 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-image: url("../images/fondo1.jpg");
+  display: flex;
+  flex-direction: column;
+  min-height: column;
+  margin: 0;
+  width: 100%;
+  
+ 
+}
+
+h1 {
+  background-color: #dc32a0;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+  margin: 0;
+  
+}
+
+div{
+  text-align: center;
+  color: #fff;
+  font-size: 24px;
+  margin-top: 0%;
+
+}
+
+footer {
+  background-color: #dc32a0;
+  color: #fff;
+  padding: 0.5rem;
+  text-align: center;
+  margin-top: 610px;
+     
+}
